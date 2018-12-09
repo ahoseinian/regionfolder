@@ -1,6 +1,6 @@
 {
-  "name": "importfolder",
-  "displayName": "importfolder",
+  "name": "region-folder",
+  "displayName": "region-folder",
   "description": "Will fold automaticlly your long ass import lines",
   "version": "0.0.1",
   "engines": {
@@ -14,14 +14,6 @@
     "onLanguage:javascript"
   ],
   "main": "./out/extension",
-  "contributes": {
-    "commands": [
-      {
-        "command": "extension.sayHello",
-        "title": "Hello World"
-      }
-    ]
-  },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
     "compile": "tsc -p ./",
