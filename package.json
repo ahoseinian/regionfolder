@@ -2,7 +2,7 @@
   "name": "region-folder",
   "displayName": "region-folder",
   "description": "Will fold automaticlly your long ass import lines",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.29.0"
   },
