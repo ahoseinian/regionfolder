@@ -4,6 +4,10 @@
   "description": "Will fold automaticlly your long ass import lines",
   "version": "0.1.0",
   "publisher": "ahoseinian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahoseinian/regionfolder"
+  },
   "engines": {
     "vscode": "^1.29.0"
   },
