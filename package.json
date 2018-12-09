@@ -3,6 +3,7 @@
   "displayName": "region-folder",
   "description": "Will fold automaticlly your long ass import lines",
   "version": "0.1.0",
+  "publisher": "ahoseinian",
   "engines": {
     "vscode": "^1.29.0"
   },
